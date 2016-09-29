@@ -1,0 +1,4 @@
+hello-world
+*.o
+*~
+.DS_Store
